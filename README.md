@@ -24,6 +24,7 @@
 </div>
 
 ###
+###
 <p align="left"> I’m a final-year Computer Science student with a passion for website development, data, and Artificial Intelligence. Flexible and hardworking, I thrive in environments that challenge me to learn and grow. 
 
 <!-- I have strong attention to detail, a high eagerness to explore new technologies, and enjoy continuous learning. I’m also equipped with solid communication and adaptability skills, which help me collaborate effectively and stay motivated across various projects.  -->
@@ -31,7 +32,7 @@
 ###
 
  <h3 align="left">
- Some of my favorite project
+ Some of my favorite projects
 
 <div style="display: flex; gap: 16px; flex-wrap: wrap;">
   <a href="https://github.com/imeldamayanti/Hands4Math">
@@ -49,10 +50,10 @@
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imeldamayanti/imeldamayanti/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imeldamayanti/imeldamayanti/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imeldamayanti/imeldamayanti/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
