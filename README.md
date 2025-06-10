@@ -31,9 +31,7 @@
 
 ###
 
- <h3 align="left">
- Some of my favorite projects
-
+## Some of my favorite projects
 <div style="display: flex; gap: 16px; flex-wrap: wrap;">
   <a href="https://github.com/imeldamayanti/Hands4Math">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imeldamayanti&repo=Hands4Math&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands4Math GitHub Card">
