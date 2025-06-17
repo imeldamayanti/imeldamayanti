@@ -16,10 +16,10 @@
   <a href = "https://www.instagram.com/imelda_d_/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-<!-- 
+
   <a href="https://imeldamayanti.github.io/">
   <img src="https://img.shields.io/badge/My%20Portfolio-20B2AA?style=for-the-badge" height="25"  />
-  </a> -->
+  </a>
 
 </div>
 
@@ -32,26 +32,14 @@
 ###
 
 ## Some of my favorite projects
-<div style="display: flex; gap: 16px; flex-wrap: wrap;">
-  <a href="https://github.com/imeldamayanti/Hands4Math">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imeldamayanti&repo=Hands4Math&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands4Math GitHub Card">
-  </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imeldamayanti&repo=Apicta2023)](https://github.com/imeldamayanti/Apicta2023)
 
-  <a href="https://github.com/imeldamayanti/budget-inAja.github.io">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imeldamayanti&repo=budget-inAja.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Budget-inAja GitHub Card">
-  </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imeldamayanti&repo=Hands4Math)](https://github.com/imeldamayanti/Hands4Math)
 
-  <a href="https://github.com/imeldamayanti/Apicta2023">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=imeldamayanti&repo=Apicta2023&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Apicta2023 GitHub Card">
-  </a>
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imeldamayanti&repo=budget-inAja.github.io)](https://github.com/imeldamayanti/budget-inAja.github.io)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imeldamayanti&repo=BookNest)](https://github.com/imeldamayanti/BookNest)
 
 ###
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imeldamayanti/imeldamayanti/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imeldamayanti/imeldamayanti/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imeldamayanti/imeldamayanti/output/pacman-contribution-graph.svg">
-</picture> -->
 
-###
